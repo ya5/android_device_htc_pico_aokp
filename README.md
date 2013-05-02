@@ -1,4 +1,3 @@
-android_device_htc_pico_aokp
-============================
+CyanogenMod 10.1(Android 4.2) device configuration for HTC Explorer A310e
 
-Device tree for HTC Explorer JB MR-1 4.2.2
+WORK IN PROGRESS.WILL EAT YOUR CAT
